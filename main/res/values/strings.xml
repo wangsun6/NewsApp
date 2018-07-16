@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AP NEWS</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Real ca-app-pub-8298019249336218/8116198683
+        Test ca-app-pub-3940256099942544/6300978111-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="app_link">https://goo.gl/9Pbb5R</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+</resources>

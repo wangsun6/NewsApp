@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_download"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.becsupport.android.arunachalnews.notification.Notice">
+
+    <TextView
+        android:id="@+id/notification_id"
+        android:hint="Notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="start"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:fontFamily="serif"
+        android:textColor="@color/colorAccent"/>
+
+</ScrollView>
